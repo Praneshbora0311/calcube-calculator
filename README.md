@@ -360,23 +360,6 @@ Possible improvements for future versions include:
 
 ---
 
-## 👨‍💻 Author & Contact
-
-### Pranesh Pravin Bora
-
-🎓 First-Year Computer Science Engineering Student
-
-💻 Currently learning C programming and building practical software projects.
-
-📧 **Email:** praneshbora0311@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/praneshbora
-
-📱 **Contact:** +91 7498503346
-
-🐙 **GitHub:** https://github.com/Praneshbora0311
-
----
 
 ## ⭐ Support
 
