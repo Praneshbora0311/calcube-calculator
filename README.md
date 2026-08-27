@@ -343,20 +343,6 @@ The project provided practical experience with **functions, loops, switch-case s
 
 Building CALCUBE helped me strengthen my understanding of C programming and apply individual programming concepts together in a complete working project.
 
----
-
-## 🔮 Future Improvements
-
-Possible improvements for future versions include:
-
-- 🔢 Square root operation
-- 📊 Percentage calculation
-- 📐 Trigonometric functions
-- 📈 Logarithmic functions
-- 🧾 Calculation history
-- 🔄 Improved input validation
-- 🧮 Scientific calculator mode
-- 🖥️ Graphical user interface
 
 ---
 
