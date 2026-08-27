@@ -281,12 +281,6 @@ RESULT OF OPERATION = 40.00
 
 ---
 
-## 📸 Program Output
-
-![CALCUBE Output](screenshots/calculator-output.png)
-
----
-
 ## ▶️ How to Run This Project
 
 ### 1️⃣ Clone the Repository
