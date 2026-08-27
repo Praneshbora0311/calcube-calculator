@@ -331,7 +331,6 @@ calcube
 │   └── 🖼️ calculator-output.png
 │
 ├── 📄 README.md
-└── 📄 .gitignore
 ```
 
 ---
